@@ -11,7 +11,7 @@
 ![Снимок экрана (219)](https://user-images.githubusercontent.com/51242971/224539987-1b442f3e-762b-4b02-bdd6-16944fe85e3e.png)
 
 
-## Second task creating one2many,many2one,one2one connections 
+## Second and Third task creating one2many,many2one,one2one connections 
 
 
 
