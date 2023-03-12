@@ -2,7 +2,7 @@
 
 ## First task creating new models again
 #### I have created in custom addons file my new module named "university"  in previous task
-#### in this task i have also created new ones (organization,speciality,student)
+#### in this task i have also created new models (organization,speciality,student)
 
 
 ![Снимок экрана (226)](https://user-images.githubusercontent.com/51242971/224542289-84169b88-5c46-4768-b0db-00a955cdacf1.png)
